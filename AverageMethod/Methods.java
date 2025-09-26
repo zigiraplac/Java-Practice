@@ -1,3 +1,4 @@
+package AverageMethod;
 public class Methods {
     public static int sum(int[] numbers){
         int total=0;
